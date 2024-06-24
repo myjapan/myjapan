@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @myjapan
 - 👀 I’m interested in Linux, Ansible and Arduino projects    
      Started with ZX Spectrum, falled in love with Commodore Amiga, after struggling too many years with Windows, I switched to Linux   
      Ansible: since I like to scale out :)    
